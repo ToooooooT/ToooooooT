@@ -6,7 +6,7 @@
 **About Me**
 - 💼 I’m currently studying IOC in NYCU.
 - 🌱 I’m currently exploring Deep Reinforcement Learning.
-- 🥰 My interests are RL, deep learning and application design.
+- 🥰 My interests are RL, deep learning.
 - 🎯 I’m seeking an software of AI engineer internship.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [toooot.cs11@nycu.edu.tw](mailto:toooot.cs11@nycu.edu.tw)
