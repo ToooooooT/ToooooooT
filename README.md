@@ -13,7 +13,7 @@
 
 **My Github Stats**  
 
-![ToooooooT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToooooooT&hide=contribs,prs&count_private=true&show_icons=true&rank_icon=true&theme=github)
+![ToooooooT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToooooooT&count_private=true&show_icons=true&rank_icon=true&theme=github)
 
 **Languages and Tools**  
 
