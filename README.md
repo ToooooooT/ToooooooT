@@ -21,7 +21,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,pytorch)](https://skillicons.dev)
-
+<br />
+[![My Skills](https://skillicons.dev/icons?i=git,pytorch,linux)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=latex,vim)](https://skillicons.dev)
 
 <br />
