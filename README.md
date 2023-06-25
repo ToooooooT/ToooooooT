@@ -20,7 +20,7 @@
 <img align="left" style="display:inline" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToooooooT&theme=github" height="120px"></img>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=git,pytorch,linux)](https://skillicons.dev)
 <br />
